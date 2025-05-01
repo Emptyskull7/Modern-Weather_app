@@ -9,7 +9,7 @@ const userInfoContainer =  document.querySelector(".user-info-container");
 
 //Initially variable needed
 let currentTab = userTab;
-const API_KEY = "bcb0d312e3100a798ea01505ddc37c65";
+const API_KEY = "YOUR_TOKEN_HERE";
 currentTab.classList.add("current-tab");
 //maybe already presnt lat and lon ... so we have to call the fucntion one time
 getfromSessionStorage();
