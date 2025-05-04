@@ -4,6 +4,10 @@ A beautifully designed, fully functional weather web app built using vanilla Jav
 
 ---
 
+## 🔗 Live Project
+
+👉 coolpandey-weather-app.netlify.app
+
 ## 🚀 Features
 
 - 🌍 Get weather based on **your current location** using the **Geolocation API**
